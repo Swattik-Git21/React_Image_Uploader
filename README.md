@@ -1,4 +1,6 @@
 
+##. How to Run
+
 # Install dependencies server/client
 npm install
 cd client
